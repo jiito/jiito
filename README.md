@@ -3,12 +3,16 @@
 ## Get to know me w/ 5️⃣ facts
 1. I am a trained ballet dancer.
 2. I taught myself [graphic design](https://benallanrahill.com)
-3. I am taking the semester off from Middlebury College <img href="./media/middlogo_newsroom.png" height="10px" />
+3. I am taking the semester off from Middlebury College <img src="media/middlogo_newsroom.png" height=20px style="float: left; margin-right: 10px;" />
 
 ## 🔭 I’m currently working on ...
-Quotd
-benallanrahill.com
-productbuds.co
+<div class="projects" style="display: flex; justify: space-around">
+  <ul style="text-decoration: none">
+    <li>💬 [Quotd](https://github.com/benjamin-allanrahill/quote-book)</li>
+    <li>[benallanrahill.com](https://benallanrahill.com)</li>
+    <li>[productbuds.co](https://productbuds.co)</li>
+  </ul>
+ </div>
 
 ## 🌱 I’m currently learning ...
 <!--
