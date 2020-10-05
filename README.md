@@ -1,12 +1,14 @@
+![rockclimbing](./otter-cliffs)
 # Heyo there 👋 Benji here.
 
 ![twitter](https://img.shields.io/twitter/follow/ballanrahill)
 ![github](https://img.shields.io/github/followers/benjamin-allanrahill?label=check%20out%20my%20code%21&style=plastic)
 
-## Get to know me w/ 5️⃣ facts
+## Get to know me w/ some speedy facts
 1. I am a trained ballet dancer.
-2. I taught myself [graphic design](https://benallanrahill.com)
-3. I am taking the semester off from Middlebury College <img src="media/middlogo_newsroom.png" height=20px style="float: left; margin-right: 10px;" />
+2. I LOVE hockey. In high school I wont the Maine state championships
+3. I taught myself through YouTube [graphic design](https://benallanrahill.com)
+4. I am taking the semester off from Middlebury College <img src="media/middlogo_newsroom.png" height=20px style="float: left; margin-right: 10px;" />
 
 ## 🔭 I’m currently working on ...
 - [sweeep.me](https://github.com/benjamin-allanrahill/sweeep)
