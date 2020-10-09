@@ -1,6 +1,8 @@
 
 <img src="./otter-cliffs-25 copy.jpg" style="overflow: hidden; height: 100px; width: 1000px;"/>
-# Heyo there 👋 Benji here.
+
+
+<h1> Heyo there 👋 Benji here. </h1>
 
 ![twitter](https://img.shields.io/twitter/follow/ballanrahill)
 ![github](https://img.shields.io/github/followers/benjamin-allanrahill?label=check%20out%20my%20code%21&style=plastic)
