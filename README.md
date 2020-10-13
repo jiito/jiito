@@ -1,11 +1,32 @@
 
-<img src="./otter-cliffs-25 copy.jpg" style="overflow: hidden; height: 100px; width: 1000px;"/>
+<style>
+ #projects {
+  display: inline;
+  }
+</style>
+<img src="media/otter-cliffs-25 copy.jpg" style="overflow: hidden; height: 100px; width: 1000px;"/>
 
 
-<h1> Heyo there 👋 Benji here. </h1>
+<h1> Heyo 👋  Benji here. </h1>
 
 ![twitter](https://img.shields.io/twitter/follow/ballanrahill)
 ![github](https://img.shields.io/github/followers/benjamin-allanrahill?label=check%20out%20my%20code%21&style=plastic)
+
+## 🔭 I’m currently working on ...
+
+
+<ul id="projects" styles="display:inline; text-decoration:none">
+  <li><a href="https://github.com/benjamin-allanrahill/sweeep">sweeep.me</a></li>
+  <li><a href="https://github.com/benjamin-allanrahill/quote-book">quotd.page</a></li>
+  <li><a href="https://benallanrahill.com">benallanrahill.com</a></li>
+  <li><a href="https://productbuds.co">productbuds.co</a></li>
+</ul> 
+
+
+- [sweeep.me](https://github.com/benjamin-allanrahill/sweeep)
+- 💬 [Quotd](https://github.com/benjamin-allanrahill/quote-book)</li>
+- [benallanrahill.com](https://benallanrahill.com)</li>
+- [productbuds.co](https://productbuds.co)</li>
 
 ## Get to know me w/ some speedy facts
 1. I am a trained ballet dancer.
@@ -13,11 +34,7 @@
 3. I taught myself through YouTube [graphic design](https://benallanrahill.com)
 4. I am taking the semester off from Middlebury College <img src="media/middlogo_newsroom.png" height=20px style="float: left; margin-right: 10px;" />
 
-## 🔭 I’m currently working on ...
-- [sweeep.me](https://github.com/benjamin-allanrahill/sweeep)
-- 💬 [Quotd](https://github.com/benjamin-allanrahill/quote-book)</li>
-- [benallanrahill.com](https://benallanrahill.com)</li>
-- [productbuds.co](https://productbuds.co)</li>
+
 
 <!--
 
