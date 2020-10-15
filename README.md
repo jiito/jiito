@@ -1,9 +1,4 @@
 
-<style>
- #projects {
-  display: inline;
-  }
-</style>
 <img src="media/otter-cliffs-25 copy.jpg" style="overflow: hidden; height: 100px; width: 1000px;"/>
 
 
