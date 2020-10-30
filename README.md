@@ -15,7 +15,21 @@
   <li><a href="https://github.com/benjamin-allanrahill/quote-book">quotd.page</a></li>
   <li><a href="https://benallanrahill.com">benallanrahill.com</a></li>
   <li><a href="https://productbuds.co">productbuds.co</a></li>
-</ul> 
+</ul>
+
+### ⚡️ I helped make these come to live ...
+
+
+<ul id="projects" styles="display:inline; text-decoration:none">
+  <li><a href="https://2020upto.us">2020 Up To Us Voter Registration Contest</a></li>
+  <li><a href="https://github.com/benjamin-allanrahill/recipe-jump">Recipe Jump Chrome Extension</a></li>
+</ul>
+
+### 🥅 Some goals for now ...
+- Launch a few products 
+- Learn about Venture Capital and Entrepreneurship 
+- Write and read more
+
 
 ### Get to know me w/ some speedy facts
 1. I am a trained ballet dancer.
