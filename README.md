@@ -13,11 +13,11 @@
 <ul id="projects" styles="display:inline; text-decoration:none">
   <li><a href="https://github.com/benjamin-allanrahill/sweeep">sweeep.me</a></li>
   <li><a href="https://github.com/benjamin-allanrahill/quote-book">quotd.page</a></li>
-  <li><a href="https://benallanrahill.com">benallanrahill.com</a></li>
+  <li><a href="https://benji.ar">benji.ar</a></li>
   <li><a href="https://productbuds.co">productbuds.co</a></li>
 </ul>
 
-### ⚡️ I helped make these come to live ...
+### ⚡️ I helped make these come to life ...
 
 
 <ul id="projects" styles="display:inline; text-decoration:none">
