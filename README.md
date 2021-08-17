@@ -4,7 +4,7 @@
 
 <h1> Benjamin Allan-Rahill </h1>
 
-![twitter](https://img.shields.io/twitter/follow/benjidotar)
+![twitter](https://img.shields.io/twitter/follow/beeejar)
 ![github](https://img.shields.io/github/followers/benjamin-allanrahill?label=check%20out%20my%20code%21&style=plastic)
 
 ### 🔭 I’m currently working on ...
