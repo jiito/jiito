@@ -2,7 +2,7 @@
 <img src="media/otter-cliffs-25 copy.jpg" style="overflow: hidden; height: 100px; width: 1000px;"/>
 
 
-<h1> /ben(jamin|ji)?$/( Allan-Rahill </h1>
+<h1> Ben( ji | jamin ) Allan-Rahill </h1>
 
 ![twitter](https://img.shields.io/twitter/follow/beeejar)
 ![github](https://img.shields.io/github/followers/benjamin-allanrahill?label=check%20out%20my%20code%21&style=plastic)
