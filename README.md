@@ -11,13 +11,16 @@
 
 
 <ul id="projects" styles="display:inline; text-decoration:none">
-  <li><a href="https://pallet.xyz">Pallet | A World of Work For You to Discover</a></li>
+  <li>Generating digital plants</li>
+  <li>Building system functions (malloc, shell, etc.)</li>
+  <li>Learning emebedded systems</li>
 </ul>
 
 ### ⚡️ I helped make these come to life ...
 
 
 <ul id="projects" styles="display:inline; text-decoration:none">
+  <li><a href="https://pallet.xyz">Pallet | A World of Work For You to Discover</a></li>
   <li><a href="https://2020upto.us">2020 Up To Us Voter Registration Contest</a></li>
   <li><a href="https://benji.ar">benji.ar</a></li>
   <li><a href="https://productbuds.co">productbuds.co</a></li>
