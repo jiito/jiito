@@ -1,11 +1,7 @@
 
-<img src="media/otter-cliffs-25 copy.jpg" style="overflow: hidden; height: 100px; width: 1000px;"/>
-
-
-<h1> Ben( ji | jamin ) Allan-Rahill </h1>
+<h1> BJAR </h1>
 
 ![twitter](https://img.shields.io/twitter/follow/beeejar)
-![github](https://img.shields.io/github/followers/benjamin-allanrahill?label=check%20out%20my%20code%21&style=plastic)
 
 ### 🔭 I’m currently working on ...
 
@@ -43,9 +39,3 @@
   <li><a href="https://productbuds.co">productbuds.co</a></li>
   <li><a href="https://github.com/benjamin-allanrahill/recipe-jump">Recipe Jump Chrome Extension</a></li>
 </ul>
-
-### Get to know me w/ some speedy facts
-1. I am a trained ballet dancer.
-2. I LOVE hockey. In high school I won the Maine state championships.
-3. I taught myself [graphic design](https://benji.ar) through YouTube 
-4. I took 2020-21 off from Middlebury College <img src="media/middlogo_newsroom.png" height=20px style="float: left; margin-right: 10px;" />
