@@ -10,8 +10,8 @@
   <li>Learning emebedded systems</li>
 </ul>
 
- ( \_/ )
- ( ^.^ )
+ (\ _ /)<br/>
+ ( ^.^ )<br/>
  (")_(")0o
 
 ### ⚡️ I helped make these come to life ...
