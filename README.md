@@ -18,7 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -31,7 +30,7 @@
 ### ⚡️ I helped make these come to life ...
 <ul id="projects" styles="display:inline; text-decoration:none">
   <li><a href="https://postroe.co">Post Roe Co</a></li>
-  <li><a href="https://github.com/Crossmint/solana-firebase-auth">Solana Authentication Package</a></li>
+  <li><a href="https://github.com/Crossmint/solana-auth">Solana Authentication Package</a></li>
   <li><a href="https://pallet.xyz">Pallet | A World of Work For You to Discover</a></li>
   <li><a href="https://2020upto.us">2020 Up To Us Voter Registration Contest</a></li>
   <li><a href="https://benji.ar">benji.ar</a></li>
