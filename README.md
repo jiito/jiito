@@ -5,14 +5,20 @@
 
 ### 🔭 I’m currently working on ...
 <ul id="projects" styles="display:inline; text-decoration:none">
-  <li>Tools for quick development with Rust</li>
-  <li>Building system functions (malloc, shell, etc.)</li>
-  <li>Learning emebedded systems</li>
+  <li><a href="https://github.com/jiito/git-checkout-interactive-rust">Tools for quick development with Rust</a></li>
+  <li>A commit spoofer for Interns!</li>
 </ul>
 
- (\ _ /)<br/>
- ( ^.^ )<br/>
- (")_(")0o
+## ( ु⁎ᴗ_ᴗ⁎)ु.｡oO
+
+I am meditating on:
+* Is there a better way to surf the internet? What if you want to learn about a singular topic? How do you navigate the sea as a novice traveler?
+* How do we build personal technology to help everyone get the most out of their tools?
+* How much to we allow technology to shape our education systems? 
+
+<h2> (\ _ /)<br/>
+( ^.^ )<br/>
+(")_(")0o </h2>
 
 ### ⚡️ I helped make these come to life ...
 <ul id="projects" styles="display:inline; text-decoration:none">
