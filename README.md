@@ -25,6 +25,7 @@ I am meditating on:
 
 ### ⚡️ I helped make these come to life ...
 <ul id="projects" styles="display:inline; text-decoration:none">
+  <li><a href="https://github.com/jsjoeio/handle-origin-stories">GitHub Handle Origin Stories</a></li>
   <li><a href="https://postroe.co">Post Roe Co</a></li>
   <li><a href="https://github.com/Crossmint/solana-auth">Solana Authentication Package</a></li>
   <li><a href="https://pallet.xyz">Pallet | A World of Work For You to Discover</a></li>
