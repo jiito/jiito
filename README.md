@@ -24,14 +24,21 @@ I am meditating on:
 ( ^.^ )<br/>
 (")_(")0o </h2>
 
+### ⚡️ I built these ...
+<ul id="projects" styles="display:inline; text-decoration:none">
+<li><a href="https://crates.io/crates/gci">Git Checkout Interactive</a></li>
+  <li><a href="https://postroe.co">Post Roe Co</a></li>
+  <li><a href="https://github.com/Crossmint/solana-auth">Solana Authentication Package</a></li>
+  <li><a href="https://benji.ar">benji.ar</a></li>
+  <li><a href="https://github.com/benjamin-allanrahill/recipe-jump">Recipe Jump Chrome Extension</a></li>
+</ul>
+
 ### ⚡️ I helped make these come to life ...
 <ul id="projects" styles="display:inline; text-decoration:none">
   <li><a href="https://github.com/jsjoeio/handle-origin-stories">GitHub Handle Origin Stories</a></li>
-  <li><a href="https://postroe.co">Post Roe Co</a></li>
-  <li><a href="https://github.com/Crossmint/solana-auth">Solana Authentication Package</a></li>
+
+  
   <li><a href="https://pallet.xyz">Pallet | A World of Work For You to Discover</a></li>
   <li><a href="https://2020upto.us">2020 Up To Us Voter Registration Contest</a></li>
-  <li><a href="https://benji.ar">benji.ar</a></li>
   <li><a href="https://productbuds.co">productbuds.co</a></li>
-  <li><a href="https://github.com/benjamin-allanrahill/recipe-jump">Recipe Jump Chrome Extension</a></li>
 </ul>
