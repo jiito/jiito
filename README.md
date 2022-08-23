@@ -1,5 +1,8 @@
 
-<h1> ben(jiito) </h1>
+<h1> ben(jiito) </h1> 
+
+[![github origin story shield](https://img.shields.io/badge/github-handle%20origin%20story-ff69b4)](https://github.com/jsjoeio/handle-origin-stories/blob/main/stories/<handle>.md) ([get yours](https://github.com/jsjoeio/handle-origin-stories/tree/b2d770b7f451c0f3a7fd862f322b231577531aca))
+
 
 ![twitter](https://img.shields.io/twitter/follow/beeejar)
 
