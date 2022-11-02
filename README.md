@@ -9,7 +9,7 @@
 
 ### 🔭 I’m currently working on ...
 <ul id="projects" styles="display:inline; text-decoration:none">
-  <li><a href="https://crates.io/gci">Tools for quick development written in Rust</a></li>
+  <li><a href="https://crates.io/crate/gci">Tools for quick development written in Rust</a></li>
    <li><a href="https://github.com/jiito/aspn">Distributed network for hosting microservices</a></li>
 </ul>
 
