@@ -1,7 +1,7 @@
 
 <h1> ben(jiito) </h1> 
 
-
+<!--
 ![twitter](https://img.shields.io/twitter/follow/beeejar) [![github origin story shield](https://img.shields.io/badge/github-handle%20origin%20story-ff69b4)](https://github.com/jsjoeio/handle-origin-stories/blob/main/stories/jiito.md) ([get yours](https://github.com/jsjoeio/handle-origin-stories/tree/b2d770b7f451c0f3a7fd862f322b231577531aca))
 
 
@@ -42,3 +42,5 @@ I am meditating on:
   <li><a href="https://2020upto.us">2020 Up To Us Voter Registration Contest</a></li>
   <li><a href="https://productbuds.co">productbuds.co</a></li>
 </ul>
+-->
+I have built: a rockwall in my backyard, a graphic design business selling posters on my college campus (@bjar.jpg), a web app for boutique chef’s to sell their eats (iykykkitchens.com), genetic analysis pipelines for understanding gene expression in mice (The Jackson Lab), a Shopify app to allow merchants to gift their customers NFTs (shhmint.com), a ray-tracer to render complex 3d meshes, a fast command line interface to checkout git branches interactively, an open-source authentication package for the Solana Blockchain, a TikTok following of 4k+ (@benj.eng), a database of companies and their responses to the overruling of Roe v. Wade (postroe.co).
