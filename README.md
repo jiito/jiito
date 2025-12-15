@@ -1,3 +1,13 @@
+### Dear visitor,
+I am currently teaching myself methods for interpreting language models and focusing on technical problems that increase the likelihood of positive outcomes of machine intelligence.
+
+Previously, I was the founding engineer at [SketchPro.ai](https://sketchpro.ai/), where we built generative image tools for architecture. Before that, I studied Computer Science at Middlebury College and grew up in Maine. 
+
+Beyond my laptop, I've spent time racing [bikes](https://bjar.substack.com/p/unbound-200), building simple [projects](https://www.benjamin.ar/work), [writing](https://www.benjamin.ar/substack), and [designing](https://www.instagram.com/p/Bqv5nvYHZtc/) [posters](https://www.instagram.com/p/B2Nef1eFaRd/).
+
+Cheers,
+
+Benjamin 
 
 [benjamin.ar](https://benjamin.ar)
 <!--
